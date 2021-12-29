@@ -319,7 +319,7 @@ ol {
 	height: 100%;
 	left: -280px;
 	top: 0;
-	overflow-y: auto;
+	overflow-y: scroll;
 	-webkit-box-shadow: 14px 0px 103px rgba(0, 0, 0, 0.08);
 	box-shadow: 14px 0px 103px rgba(0, 0, 0, 0.08);
 	background-color: #fff;
@@ -1164,7 +1164,7 @@ only screen and (min-width: 576px) and (max-width: 767px) {
 
 .blog-section {
 	height: 100%;
-	overflow: hidden;
+	overflow: scroll;
 	position: relative;
 }
 
